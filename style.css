@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    color: rgb(86, 202, 163);
+    text-align: center;
+}
+h1{
+  color: rgb(77, 58, 6);;
+}
+#txt{
+    font-family: comic sans ms;
+}
+img{
+  height: 300px;
+  width: 50%;
+}
+#sun{
+    height: 400px;
+    width: 32%;
+  }
+  #earth{
+    height: 300px;
+    width: 22%;
+  }
+  #moon{
+    height: 200px;
+    width: 15%;
+  }
+  h6{
+    color: rgb(77, 58, 6);
+  }
